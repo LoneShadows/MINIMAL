@@ -98,7 +98,7 @@ background-color:#ffffff;
  margin-left: auto;
  margin-right: auto;
  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
- url(images/head.jpg);
+ url(head.jpg);
  background-repeat: no-repeat;
  background-position: center;
  background-size: cover;
@@ -244,7 +244,7 @@ background-color:#ffffff;
 .projects {
   padding-top: 79px;
   padding-bottom: 89px;
-  background-image: url(images/projects.jpg);
+  background-image: url(projects.jpg);
 }
 
 .projects-title {
@@ -388,7 +388,7 @@ background-color:#ffffff;
 }
 
 .footer-box {
-  background-image: url(images/footer.jpg);
+  background-image: url(footer.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
