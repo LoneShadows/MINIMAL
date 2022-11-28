@@ -554,22 +554,22 @@ input {
   color: #FFFFFF;
 }
 .button {
-  font-family: 'Vollkorn';
-  font-style: italic;
-  font-weight: 400;
-  font-size: 17px;
-  line-height: 1.25;
-  padding-left: 60px;
-  padding-right: 60px;
-  padding-top: 15.05px;
-  padding-bottom: 15px;
-  margin-top: 44px;
-  margin-left: 197px;
-  white-space: nowrap;
-  border-color: #7EC4BD;
-  background-color: black;
-  color: #8BCAC3;
-  cursor: pointer;
+    font-family: 'Vollkorn';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 1.25;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 15.05px;
+    padding-bottom: 15px;
+    margin-top: 44px;
+    margin-left: 197px;
+    white-space: nowrap;
+    border-color: #7EC4BD;
+    background-color: black;
+    color: #8BCAC3;
+    cursor: pointer;
 }
 
 .footer-box-bottom {
