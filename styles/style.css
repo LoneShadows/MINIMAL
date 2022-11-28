@@ -244,7 +244,7 @@ background-color:#ffffff;
 .projects {
   padding-top: 79px;
   padding-bottom: 89px;
-  background-image: url(projects.jpg);
+  background-color: white;
 }
 
 .projects-title {
