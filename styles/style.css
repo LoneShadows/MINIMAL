@@ -495,9 +495,10 @@ background-color:#ffffff;
   text-decoration: none;
 }
 .form {
-  padding-right: 100%;
-  padding-bottom: 21.95px;
-  padding-top: 20px;
+    padding-right: 100%;
+    padding-bottom: 21.95px;
+    padding-top: 20px;
+    margin-left: -9.5%;
 }
 .footer-bottom {
   height: auto;
@@ -510,8 +511,8 @@ background-color:#ffffff;
   padding-top: 70px;
 }
 input {
-  width: 564px;
-  height: 57px;
+  width: 600px;
+  height: 60px;
   border: 0;
   background-color: rgba(255, 255, 255, 0.18);
   font-weight: 400;
@@ -535,8 +536,8 @@ input {
   font-family: 'Vollkorn';
   font-weight: 400;
   font-style: italic;
-  width: 564px;
-  height: 57px;
+  width: 600px;
+  height: 60px;
   background-color: rgba(255, 255, 255, 0.2);
   font-size: 17px;
   border: 0;
