@@ -10,7 +10,8 @@ ul {
 body {
   font-family: Montserrat, sans-serif;
   background-color: lightgray;
-  margin: 0%;
+  margin: auto;
+  min-width: 1466px;
 }
 
 .list {
